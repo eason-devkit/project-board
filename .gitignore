@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+pic/
+
+# Claude
+.claude/
+.plan.md
+
+# Doc
+doc/
+
+# Local config
+.mcp.json
+.workspace.yaml
+
+# Uploads
+backend/uploads/
+
+# Dev records
+.workflow/
+blog/
